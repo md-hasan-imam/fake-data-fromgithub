@@ -1,2 +1,2 @@
-# fake-data-fromgithub
-for testing fake data from github
+# mockjson
+to get fake data for testing
